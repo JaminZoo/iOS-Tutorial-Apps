@@ -1,0 +1,6 @@
+platform :ios, '8.4'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'MMRecord', '~> 1.4.1'
+pod 'MagicalRecord', '~> 2.2'
+pod 'AFNetworking', '~> 2.5'
+
